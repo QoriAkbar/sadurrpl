@@ -1,2 +1,2 @@
 # sadurrpl
-Berisi saduran anlisa dan perancangan PL
+Berisi saduran matakuliah analisa dan perancangan PL
