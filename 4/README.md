@@ -1,5 +1,5 @@
-Nim : 2011520004P
-Nama : Qori Akbar
-Kelompok : TI6J
+Nim : 2011520004P<br>
+Nama : Qori Akbar<br>
+Kelompok : TI6J<br>
 
-Pertemuan ke-4
+Absensi Pertemuan ke-4<br>
