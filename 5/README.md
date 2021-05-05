@@ -2,4 +2,4 @@ Nim : 2011520004P
 Nama : Qori Akbar
 Kelompok : TI6J
 
-Absensi Pertemuan ke 5 
+Absensi Pada pertemuan ke 5
